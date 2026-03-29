@@ -1,4 +1,9 @@
 body {
 	background-color: #ffffff;
-	font-family: Serif;
+	font-family: SegoeUI;
+}
+
+@font-face {
+  font-family: SegoeUI;
+  src: url(assets/SegoeUI.ttf);
 }

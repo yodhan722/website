@@ -1,9 +1,10 @@
 body {
 	background-color: #ffffff;
-	font-family: SegoeUI;
+	font-family: Helvetica;
+	display: block;
 }
 
 @font-face {
-	font-family: SegoeUI;
-	src: url(assets/SegoeUI.ttf);
+	font-family: Helvetica;
+	src: url(assets/Helvetica.ttf);
 }
